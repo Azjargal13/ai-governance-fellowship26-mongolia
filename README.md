@@ -180,7 +180,7 @@ Annex A нь 38 хяналтаас бүрдэх бөгөөд AI системий
 2. Олон-үйлдэлт агентуудыг нэг функцээр холбож агент тус бүрт үүрэг оноож илүү orchestration буюу удирдах нь хөгжүүлэлтийн болон нэвтрүүлэх цагийг хэмнэдэг.
 3. Ажилчдын болон компаний бүтээмж болон гүйцэтгэлийн хурд өсдөг. Deloitte компанийн судалгаагаар [66％-ийн бүтээмжийн өсөлттэй](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/articles/agentic-ai-insights.html) байна.
 4. Өгөгдөлд суурилсан судалгаа, анализ хийн бизнесийн өргөн хүрээнд дүгнэлт гаргадаг.
-5. Борлуулалт, орлого нэмэгдэх шинэ суваг, эх үүсвэр нэмэгдэх. [McKinsey-ийн судалгаагаар](https://www.forbes.com/councils/forbesbusinesscouncil/2026/07/08/why-ai-agents-define-the-future-of-business/) дунджаар 10-20％-ийн орлогын өсөлттэй байна.
+5. Борлуулалт, орлого нэмэгдэх шинэ суваг, эх үүсвэр нэмэгдэх. [McKinsey-ийн судалгаагаар](https://www.forbes.com/councils/forbesbusinesscouncil/2026/07/08/why-ai-agents-define-the-future-of-business/) дунджаар [10-20％](https://www.mckinsey.com/~/media/mckinsey/business%20functions/marketing%20and%20sales/our%20insights/ai%20powered%20marketing%20and%20sales%20reach%20new%20heights%20with%20generative%20ai/AI-powered-marketing-and-sales-reach-new-heights-with-generative-AI.pdf)-ийн орлогын өсөлттэй байна.
 
 Мөн хэрэглэгчийн үйлчилгээний салбар, санхүү, тайлан тооцооны мэдээлэл, програм хөгжүүлэлт, борлуулалт, худалдаа, зөвшөөрөл, төрийн байгууллагын үйлчилгээ зэрэг маш олон төрлийн бизнесийн  агуулгад уялдсан агент хөгжүүлэх боломжтой.
 
@@ -406,6 +406,23 @@ AI agent буюу хиймэл оюуны агентын үйлдэл, гүйц�
 
 ## Эх сурвалжууд
 
+- [IBM AI Governance Definition](https://www.ibm.com/think/topics/ai-governance)
+- [B&C AI Governance Definition](https://www.bain.com/insights/what-is-ai-governance/),
+- [Databricks AI Governance Definition](https://www.databricks.com/blog/what-is-ai-governance)
+- [Zapier AI Governance](https://zapier.com/blog/ai-governance/?msockid=385382ed9cd16708039194159d786684)
+- [ISSS | Why AI Governance is so important](https://www.isss.org.uk/2025/01/17/what-is-ai-governance-why-its-so-important/)
+- [AI Governance Institute](https://aigovernance.com/)
+- [Deloitte | Agentic AI Insights](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/articles/agentic-ai-insights.html)
+- [Deloitte | State of AI Report 2026](https://www.deloitte.com/us/en/about/press-room/state-of-ai-report-2026.htm)
+- [McKinsey | AI powered Marketing and Sales](https://www.mckinsey.com/~/media/mckinsey/business%20functions/marketing%20and%20sales/our%20insights/ai%20powered%20marketing%20and%20sales%20reach%20new%20heights%20with%20generative%20ai/AI-powered-marketing-and-sales-reach-new-heights-with-generative-AI.pdf)
+- [Forbes | Why AI agents define the future of business](https://www.forbes.com/councils/forbesbusinesscouncil/2026/07/08/why-ai-agents-define-the-future-of-business/)
+- [GDRP Compliance Guidelines](https://gdpr.eu/)
+- [Singapore | Model AI Governance Framework](https://aiverifyfoundation.sg/resources/mgf-gen-ai/)
+- [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework)
+- [EU AI Act](https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng)
+- [OECD AI Principles](https://oecd.ai/en/dashboards/policy-initiatives/oecd-ai-principles-9705)
+- [ISO 42001 | AI Management System](https://aigovernance.com/policy/iso-42001-2023-ai-management-system)
+
 ## Сонирхолтой материалууд
 
 - [AI Governance and Assurance Global Trends 2025-26 by International AI Governance Association](https://static1.squarespace.com/static/66797a61c60268290d62d437/t/6a564529dfe5781a8cee7c00/1784038697776/Global_Trends_2026.pdf)
@@ -420,8 +437,8 @@ AI agent буюу хиймэл оюуны агентын үйлдэл, гүйц�
 
 Жишээ нь:
 
-- Credit to Azjargal Gankhuyag / AI-agent governance handbook
-- Эх сурвалж: Г.Азжаргал - Хиймэл оюуны агентийн засаглалын гарын авлага
+- Credit to [Azjargal Gankhuyag / AI-agent governance handbook](https://github.com/Azjargal13/ai-governance-fellowship26-mongolia)
+- Эх сурвалж: [Г.Азжаргал - Хиймэл оюуны агентийн засаглалын гарын авлага](https://github.com/Azjargal13/ai-governance-fellowship26-mongolia)
 
 Гарын авлагад нэмэлт хэсэг оруулах үед шинэ branch нээж байгаад Pull Request үүсгээд Azjargal13 хаягыг reviewer болгон сонгоно уу.
 
