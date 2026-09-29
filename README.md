@@ -16,7 +16,7 @@
 
 **Хэлбэр**: Бичгэн хэлбэрт
 
-**Үр дүн**: Гарын авлага боловсруулах
+**Үр дүн**: Гарын авлага боловсруулах ([PDF хувилбар](./гарын%20авлага.pdf))
 
 **Сэдэв сонгосон шалтгаан**: Монгол улсын хүрээнд үйл ажиллагаа явуулж буй байгууллагуудын Хиймэл Оюуны Засаглалд маш тулгамдаж буй асуудлын нэг. Байгууллагууд дотооддоо хиймэл оюуны агентуудыг хөгжүүлээд зах зээлд нэвтрүүлж байгаа хэдий ч тэдгээрийн үйлдэл болон гүйцэтгэлийг өргөн хүрээнд хянах болон хэмжүүрүүдийг нэгдсэн стандартад оруулдаггүй. Энэ нь манай компанид мөн гардаг бөгөөд бид бизнест тохирсон олон үйлдэлт (multi-AI agent) болон нэг үйлдэлт агентуудыг (single AI agent) хөгжүүлэн дотооддоо хэрэгжүүлдэг ч үр дүнг зөвхөн алдаа гарсан эсэх гэсэн хэмжүүрээр тодорхойлдог.
 
@@ -428,7 +428,7 @@ AI agent буюу хиймэл оюуны агентын үйлдэл, гүйц�
 - [ISSS | Why AI Governance is so important](https://www.isss.org.uk/2025/01/17/what-is-ai-governance-why-its-so-important/)
 - [AI Governance Institute](https://aigovernance.com/)
 - [Deloitte | Agentic AI Insights](https://www.deloitte.com/us/en/what-we-do/capabilities/applied-artificial-intelligence/articles/agentic-ai-insights.html)
-- [Deloitte | State of AI Report 2026](https://www.deloitte.com/us/en/about/press-room/state-of-ai-report-2026.htm)
+- [Deloitte | State of AI Report 2026](https://www.deloitte.com/us/en/about/press-room/state-of-ai-report-2026.html)
 - [McKinsey | AI powered Marketing and Sales](https://www.mckinsey.com/~/media/mckinsey/business%20functions/marketing%20and%20sales/our%20insights/ai%20powered%20marketing%20and%20sales%20reach%20new%20heights%20with%20generative%20ai/AI-powered-marketing-and-sales-reach-new-heights-with-generative-AI.pdf)
 - [Forbes | Why AI agents define the future of business](https://www.forbes.com/councils/forbesbusinesscouncil/2026/07/08/why-ai-agents-define-the-future-of-business/)
 - [GDRP Compliance Guidelines](https://gdpr.eu/)
