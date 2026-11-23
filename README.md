@@ -9,7 +9,7 @@
 AI Governance Fellowship 2026 · Unread & The Asia Foundation
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![PDF](https://img.shields.io/badge/PDF-татах-red.svg)](./гарын%20авлага.pdf)
+[![PDF](https://img.shields.io/badge/PDF-татах-red.svg)](./AI%20засаглал%20гарын%20авлага.pdf)
 
 </div>
 
@@ -24,7 +24,7 @@ AI Governance Fellowship 2026 · Unread & The Asia Foundation
 | **Хувилбар** | 1.0 |
 | **Зорилтот уншигчид** | Байгууллагын удирдлага, засаглал ба эрсдэл хариуцсан мэргэжилтэн, технологи ба хөгжүүлэлтийн баг |
 | **Лиценз** | [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) |
-| **Бусад хэлбэр** | [PDF хувилбар](./AI засаглал гарын авлага.pdf |
+| **Бусад хэлбэр** | [PDF хувилбар](./AI%20засаглал%20гарын%20авлага.pdf |
 
 ---
 
